@@ -1,0 +1,8 @@
+C:\Users\TUĞÇE\source\repos\SayıTahmin\SayıTahmin\bin\Debug\SayıTahmin.exe.config
+C:\Users\TUĞÇE\source\repos\SayıTahmin\SayıTahmin\bin\Debug\SayıTahmin.exe
+C:\Users\TUĞÇE\source\repos\SayıTahmin\SayıTahmin\bin\Debug\SayıTahmin.pdb
+C:\Users\TUĞÇE\source\repos\SayıTahmin\SayıTahmin\obj\Debug\SayıTahmin.csproj.AssemblyReference.cache
+C:\Users\TUĞÇE\source\repos\SayıTahmin\SayıTahmin\obj\Debug\SayıTahmin.csproj.SuggestedBindingRedirects.cache
+C:\Users\TUĞÇE\source\repos\SayıTahmin\SayıTahmin\obj\Debug\SayıTahmin.csproj.CoreCompileInputs.cache
+C:\Users\TUĞÇE\source\repos\SayıTahmin\SayıTahmin\obj\Debug\SayıTahmin.exe
+C:\Users\TUĞÇE\source\repos\SayıTahmin\SayıTahmin\obj\Debug\SayıTahmin.pdb
